@@ -41,16 +41,6 @@ Bathymetrix-AI represents the software engineering side of my research, turning 
 
 ---
 
-## 🧠 Core Technologies
-
-**Remote Sensing:** `Sentinel-2` · `Landsat` · `ICESat-2` · `Ocean Colour`
-
-**Geospatial:** `QGIS` · `PyQGIS` · `Google Earth Engine` · `ESA SNAP` · `GDAL`
-
-**Geomatics:** `GNSS` · `Surveying` · `Bathymetric Data`
-
----
-
 ## 📚 Research
 
 ### M.Sc. — Surveying Engineering
