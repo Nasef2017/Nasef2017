@@ -14,33 +14,6 @@ rather than treating ML as a black box.
 
 ---
 
-## 🌊 Technical Focus
-
-- **Satellite Derived Bathymetry (SDB)** — physics-guided preprocessing, spectral feature engineering, band-ratio modelling, robust filtering, machine learning, spatial refinement, and uncertainty assessment.
-- **Coastal Remote Sensing** — shoreline detection, shoreline change, coastal morphology, shallow-water analysis, and multi-temporal monitoring.
-- **Spatio-Spectral & Temporal Modelling** — analysing bathymetric consistency across satellite scenes and over time.
-- **Satellite Altimetry & Data Fusion** — integrating ICESat-2, multispectral imagery, and reference bathymetric data.
-- **Water Optical Analysis** — evaluating water transparency and optical conditions to identify satellite observations suitable for SDB.
-
----
-
-# 🧭 Bathymetrix-AI — Flagship Project
-
-[**Open-source QGIS toolkit for Satellite Derived Bathymetry**](https://github.com/Nasef2017/Bathymetrix-AI)
-
-An end-to-end SDB framework combining:
-
-**Preprocessing → Robust Filtering → Machine Learning → Spatial Refinement → Validation → Reporting**
-
-Bathymetrix-AI represents the software engineering side of my research, turning SDB methods into a reproducible geospatial workflow.
-
-### Related projects
-
-- [**Water-Masking**](https://github.com/Nasef2017/Water-Masking) — satellite-based water extraction and masking.
-- [**coastERA-Toolkit**](https://github.com/Nasef2017/coastERA-Toolkit) — coastal Earth Observation workflows.
-
----
-
 ## 📚 Research
 
 ### M.Sc. — Surveying Engineering
