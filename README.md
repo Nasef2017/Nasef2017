@@ -29,7 +29,7 @@ rather than treating ML as a black box.
 
 ### Software
 
-[Bathymetrix-AI v7.2](https://doi.org/10.5281/zenodo.22020963) · [Water-Masking v1.0](https://doi.org/10.5281/zenodo.20452125) · [coastERA-Toolkit v1.2](https://doi.org/10.5281/zenodo.20096782)
+[Bathymetrix-AI v7.9](https://github.com/Nasef2017/Bathymetrix-AI) · [Water-Masking v2.1](https://github.com/Nasef2017/Water-Masking) · [coastERA-Toolkit v1.2](https://github.com/Nasef2017/coastERA-Toolkit)
 
 ---
 
