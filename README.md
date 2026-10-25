@@ -16,6 +16,9 @@ rather than treating ML as a black box.
 
 ## 📚 Research
 
+### PhD. — Construction Engineering
+**AASTMT · 2026–present**
+
 ### M.Sc. — Surveying Engineering
 **Alexandria University · 2020–2025**
 
@@ -24,12 +27,13 @@ rather than treating ML as a black box.
 
 ### Selected Publications
 
+- Nasef, Poursanidis, Alevizos & Akram (2026). *Multi-Temporal Sentinel-2/ICESat-2 Bathymetry Using Post-Inversion Median Aggregation and Spatial Residual Correction* - **Under review**
 - Poursanidis, Nasef & Alevizos (2026). *Democratizing Bathymetry from Space: The QGIS Bathymetrix-AI Toolbox.* — **Under review**
 - Nasef et al. (2024). *Best Practices in ML for Near-Shore Bathymetry Modeling.* **Benha Journal of Applied Sciences, 9(5), 49–56.** [DOI](https://doi.org/10.21608/bjas.2024.285895.1420)
 
 ### Software
 
-[Bathymetrix-AI v7.9](https://github.com/Nasef2017/Bathymetrix-AI) · [Water-Masking v2.1](https://github.com/Nasef2017/Water-Masking) · [coastERA-Toolkit v1.2](https://github.com/Nasef2017/coastERA-Toolkit)
+[Bathymetrix-AI v7.9](https://github.com/Nasef2017/Bathymetrix-AI) · [Water-Masking v2.1](https://github.com/Nasef2017/Water-Masking) · [coastERA-Toolkit v1.2](https://github.com/Nasef2017/coastERA-Toolkit) · [CoastDepth-v0.2.5](https://github.com/Nasef2017/CoastDepth)
 
 ---
 
